@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 📚 I'm currently a student at BU
-- ⚡ Few Fun Facts: I love to watch anime, go on walks, and learning new spoken languages!
 - 📫 Reach me at mcyoung@bu.edu
 
 ### Languages
