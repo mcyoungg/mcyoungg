@@ -1,6 +1,6 @@
-### Hi there 👋
-- 📚 I'm currently a student at BU
-- 📫 Reach me at mcyoung@bu.edu
+### Hi there
+- I'm currently a student at BU
+- Reach me at mcyoung@bu.edu
 
 ### Languages
 
