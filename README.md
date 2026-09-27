@@ -1,13 +1,12 @@
 ### Hi there
-- I'm currently a student at BU
-- Reach me at mcyoung@bu.edu
+- Reach me at cynthiayoung472@gmail.com
 
 ### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-000)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 <!--
 **mcyoungg/mcyoungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
